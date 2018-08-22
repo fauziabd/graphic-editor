@@ -22,3 +22,11 @@ To make this all work there is a variety of other open source code used:
 - Gradient Picker - https://github.com/artf/grapick
 - jQuery
 - Bootstrap
+
+
+##### Known Issues
+
+Note: This code is not meant to be a complete graphic editor, it is intended to use this a base for building your own graphic editor.
+
+- Cloning elements (to fix need unique ID)
+- Graphic Witdh / Height on Saved File / Loaded File (solution: save info to database, not a file)
