@@ -1,5 +1,7 @@
 # Open Source Graphic Editor
 
+<img src="https://d3vv6lp55qjaqc.cloudfront.net/items/2w1k0m2E0w250S400a1z/Image%202018-08-22%20at%207.48.06%20AM.png?X-CloudApp-Visitor-Id=1152494&v=c105482a" style="width: 200px">
+
 To use, download the full files here: https://github.com/monetizedesign/graphic-editor/archive/master.zip
 
 Open the `index.html` file inside your web browser. Add text, shapes, upload images and have access to basic graphic editing.
